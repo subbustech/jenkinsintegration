@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T23:47:03 IST" name="Suite" finished-at="2023-03-08T23:47:41 IST" duration-ms="37449">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T23:47:03 IST" name="Test" finished-at="2023-03-08T23:47:41 IST" duration-ms="37449">
+      <class name="carrentaltests.Pr02NavigationBarCheckWithPOM">
+        <test-method signature="checkNavigationBarLinks()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:16 IST" name="checkNavigationBarLinks" finished-at="2023-03-08T23:47:19 IST" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavigationBarLinks -->
+        <test-method signature="searchAudi()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:19 IST" name="searchAudi" finished-at="2023-03-08T23:47:21 IST" duration-ms="2345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAudi -->
+        <test-method signature="searchBMW()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:21 IST" name="searchBMW" finished-at="2023-03-08T23:47:23 IST" duration-ms="2404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBMW -->
+        <test-method signature="searchMaruthi()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:23 IST" name="searchMaruthi" finished-at="2023-03-08T23:47:26 IST" duration-ms="2186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMaruthi -->
+        <test-method signature="searchNissan()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:26 IST" name="searchNissan" finished-at="2023-03-08T23:47:28 IST" duration-ms="2772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchNissan -->
+        <test-method signature="searchToyota()[pri:0, instance:carrentaltests.Pr02NavigationBarCheckWithPOM@6c130c45]" started-at="2023-03-08T23:47:28 IST" name="searchToyota" finished-at="2023-03-08T23:47:30 IST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchToyota -->
+      </class> <!-- carrentaltests.Pr02NavigationBarCheckWithPOM -->
+      <class name="carrentaltests.Pr01VerifyPages">
+        <test-method signature="verifyAboutUsPage()[pri:0, instance:carrentaltests.Pr01VerifyPages@50ad3bc1]" started-at="2023-03-08T23:47:30 IST" name="verifyAboutUsPage" finished-at="2023-03-08T23:47:32 IST" duration-ms="1921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAboutUsPage -->
+        <test-method signature="verifyCarListingPage()[pri:0, instance:carrentaltests.Pr01VerifyPages@50ad3bc1]" started-at="2023-03-08T23:47:32 IST" name="verifyCarListingPage" finished-at="2023-03-08T23:47:34 IST" duration-ms="2046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCarListingPage -->
+        <test-method signature="verifyContactUsPage()[pri:0, instance:carrentaltests.Pr01VerifyPages@50ad3bc1]" started-at="2023-03-08T23:47:34 IST" name="verifyContactUsPage" finished-at="2023-03-08T23:47:37 IST" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactUsPage -->
+        <test-method signature="verifyFAQsPage()[pri:0, instance:carrentaltests.Pr01VerifyPages@50ad3bc1]" started-at="2023-03-08T23:47:37 IST" name="verifyFAQsPage" finished-at="2023-03-08T23:47:39 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFAQsPage -->
+        <test-method signature="verifyHomePage()[pri:0, instance:carrentaltests.Pr01VerifyPages@50ad3bc1]" started-at="2023-03-08T23:47:39 IST" name="verifyHomePage" finished-at="2023-03-08T23:47:41 IST" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- carrentaltests.Pr01VerifyPages -->
+      <class name="carrentaltests.Pr03Login">
+        <test-method signature="loginUser1()[pri:0, instance:carrentaltests.Pr03Login@a3d8174]" started-at="2023-03-08T23:47:03 IST" name="loginUser1" finished-at="2023-03-08T23:47:08 IST" duration-ms="4361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser1 -->
+        <test-method signature="loginUser2()[pri:0, instance:carrentaltests.Pr03Login@a3d8174]" started-at="2023-03-08T23:47:08 IST" name="loginUser2" finished-at="2023-03-08T23:47:10 IST" duration-ms="2899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser2 -->
+        <test-method signature="loginUser3()[pri:0, instance:carrentaltests.Pr03Login@a3d8174]" started-at="2023-03-08T23:47:10 IST" name="loginUser3" finished-at="2023-03-08T23:47:13 IST" duration-ms="3039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser3 -->
+        <test-method signature="loginUser4()[pri:0, instance:carrentaltests.Pr03Login@a3d8174]" started-at="2023-03-08T23:47:13 IST" name="loginUser4" finished-at="2023-03-08T23:47:16 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser4 -->
+      </class> <!-- carrentaltests.Pr03Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
